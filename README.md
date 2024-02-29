@@ -1,2 +1,4 @@
 # Data-Analytics
-Projects demonstrating Skills
+Projects demonstrating Skills:
+
+In this project, I conducted a comprehensive analysis of the 2022 T20 World Cup cricket tournament, leveraging advanced data extraction techniques from ESPNcricinfo. Through meticulous web scraping procedures and proficient data cleaning utilizing Python's Pandas library, I curated a rich dataset encompassing player statistics, match outcomes, and team performances. Subsequently, employing the powerful visualization capabilities of Power BI, I crafted insightful dashboards to distil complex cricketing insights and facilitate strategic decision-making. This endeavour aimed to construct an optimal playing 11 team capable of competing against extraterrestrial adversaries, demonstrating my proficiency in data analysis, web scraping, and visualization tools.
